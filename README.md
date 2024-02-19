@@ -62,3 +62,27 @@ To run this application, use command:
    node index.js 
    ```
 
+
+### Step-4 : Make code more modular
+
+1. Created seperate class for 'dice' functionality:
+   - The code sets up a Magical Arena game by collecting player details through a prompt interface, creating player objects, initializing the game with these players, and closing the input interface afterward.
+2. updated code in 'class' player and 'magicalArena' respectively.
+
+### Step-5 : Making user Friendly Interface
+Take input from user for player1 and player2 details, so updated file 'index.js' file:
+ - The code initializes a Magical Arena game.
+ - It collects player details via prompts.
+ - Player objects are created with the provided details.
+ - The game is initialized with these players.
+ - The input interface is closed afterward.
+
+To run this application, use command: 
+   ```bash
+   node index.js 
+   ```
+
+
+
+
+
